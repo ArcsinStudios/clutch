@@ -48,4 +48,4 @@ If you're using or going to use C++26, then don't use `lidevec`. Instead, use `s
 
 ---
 
-<sub>Author: Arcsin Studios<br>License (of this README): CC BY-SA 4.0</sub>
+<sub>Author: Arcsin Studios<br>License (of this document): CC BY-SA 4.0</sub>
