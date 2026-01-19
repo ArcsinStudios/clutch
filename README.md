@@ -6,8 +6,8 @@
 
 ![](https://img.shields.io/badge/Language-C++-blue) ![](https://img.shields.io/badge/Standard-C++20-blue) ![](https://img.shields.io/badge/Dependencies-STL_Only-green) ![](https://img.shields.io/badge/License-MIT-yellow) ![](https://img.shields.io/badge/Platform-Any-lightgrey)
 
-**CLUTCH** is a collection of modules that are considered extendable and formerly a part of LAUNCH.  
-The following lists their original introductions in the README of LAUNCH.
+**CLUTCH** is a collection of modules that are considered expendable and formerly a part of LAUNCH.  
+The original introductions of the modules in the README of LAUNCH are listed below.
 
 ### \<caref\>
 
